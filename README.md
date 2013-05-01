@@ -1,5 +1,10 @@
 # AngularJS Google Maps Example Application 
 
+## Note: Please see [this thread](https://groups.google.com/forum/#!topic/angular/CM8ewcWeTF4)
+
+- Resuming working on this project [here](https://github.com/LarryEitel/of4).
+- [Current live view](http://of.xchg.com).
+
 ## Overview
 
 The purpose of this project is to encourage collaboration from the community with how best to work with Google Maps using AngularJS. I started a [thread](https://groups.google.com/forum/?fromgroups&nomobile=true#!topic/angular/CM8ewcWeTF4) in AngularJS Google Groups.
